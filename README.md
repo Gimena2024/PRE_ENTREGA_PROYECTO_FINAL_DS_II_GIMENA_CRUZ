@@ -6,7 +6,5 @@ Entrega en Google Colab, Presentación PDF , DataSet Original( no permite subirl
 
 Se adjunta link al Drive :https://drive.google.com/drive/folders/1ITtJA3hZ02_c7d411suvRPNuB1tJCgmL?usp=sharing
 
-Enlace pdf: 
-
-https://www.canva.com/design/DAGVWr1TmUc/uij3lf1LNkHQt34M-4Z5LA/edit?utm_content=DAGVWr1TmUc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Enlace pdf:  https://www.canva.com/design/DAGVWr1TmUc/uij3lf1LNkHQt34M-4Z5LA/edit?utm_content=DAGVWr1TmUc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
