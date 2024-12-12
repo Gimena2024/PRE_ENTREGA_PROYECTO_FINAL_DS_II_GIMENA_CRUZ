@@ -1,4 +1,4 @@
-# PROYECTO_FINAL_DS_II_GIMENA_CRUZ
+# PROYECTO_FINAL_DS_II_GIMENA_CRUZ (Transacciones fraude con tarjetas de crédito)
 
 Proyecto Final CoderHouse Profesor Fernando Carabedo, Tutor Germán Rodriguez.
 
